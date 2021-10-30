@@ -1,2 +1,4 @@
 # slashcommandsuptimebot
-Slash Commandslı uptime bot.
+
+  - Slash Commands uptime bot.
+  - Discord: https://discord.gg/SGdy3jtMCB
